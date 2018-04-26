@@ -1,8 +1,8 @@
 /*
- * tbf_rabbitmq_api.h
+ * rabbitmq_api.h
  *
  *  Created on: Apr 9, 2018
- *      Author: yhou67
+ *      Author: yhou46
  */
 
 #ifndef RABBITMQ_API_H_
